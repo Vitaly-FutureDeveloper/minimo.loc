@@ -1,0 +1,6 @@
+#Git-ignore
+node_modules/
+build/
+package-lock.json
+Minimo_-_Blog_template.zip
+FONTS/
